@@ -131,7 +131,7 @@ if (length(colnames_both) != length(unique(colnames_both))){
 
 
 ## set directory to output
-setwd(path_data_out_1)
+setwd(path_data_out)
 
 
 #check ok (normal distribution) per VM
